@@ -1,3 +1,3 @@
 # bot-javascript-template
 
-prerequeires https://github.com/telegraf/telegraf library
+prerequires https://github.com/telegraf/telegraf library
