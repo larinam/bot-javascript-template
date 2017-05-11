@@ -1,6 +1,11 @@
 # bot-javascript-template
 
-prerequires https://github.com/telegraf/telegraf library
+install npm
 
-to run bot execute
+then 
+
+npm install telegraf nedb request
+
+
+to run bot from a console
   npm run dev
